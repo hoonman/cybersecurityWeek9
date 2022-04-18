@@ -1,4 +1,4 @@
-#Codepath Cybersecurity Week 9 Assignment
+# Codepath Cybersecurity Week 9 Assignment
 # Project 8 - Pentesting Live Targets
 
 Time spent: **X** hours spent in total
