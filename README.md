@@ -21,7 +21,7 @@ Vulnerability #1: __________________
 
 Description:
 
-<img src="blue-vuln1.gif">
+<img src="https://github.com/hoonman/cybersecurityWeek9/blob/main/blue1.gif">
 
 Vulnerability #2: __________________
 
