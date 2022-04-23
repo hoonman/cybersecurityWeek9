@@ -46,11 +46,11 @@ Description:
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: Changing session IDs
 
-Description:
+Description: changing the session ID redirects us to links that we are not supposed to have access to.
 
-<img src="red-vuln1.gif">
+<img src="https://github.com/hoonman/cybersecurityWeek9/blob/main/red1.gif">
 
 Vulnerability #2: __________________
 
