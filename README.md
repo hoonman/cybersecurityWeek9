@@ -17,9 +17,9 @@ Each color is vulnerable to only 2 of the 6 possible exploits. First discover wh
 
 ## Blue
 
-Vulnerability #1: __________________
+Vulnerability #1: SQLi
 
-Description:
+Description: We can force the website to be asleep by injecting a SQL sleep code line.
 
 <img src="https://github.com/hoonman/cybersecurityWeek9/blob/main/blue1.gif">
 
