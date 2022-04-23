@@ -46,9 +46,10 @@ Description:
 
 ## Red
 
-Vulnerability #1: Changing session IDs
+Vulnerability #1: Changing session IDs. URL / IDOR type attack
 
 Description: changing the session ID redirects us to links that we are not supposed to have access to.
+ID from 1-9 gives us normal salesperson information. 
 
 <img src="https://github.com/hoonman/cybersecurityWeek9/blob/main/red1.gif">
 
