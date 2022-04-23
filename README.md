@@ -37,11 +37,11 @@ Description: entering a XSS alert script allows for displaying alerts on admin p
 
 <img src="https://github.com/hoonman/cybersecurityWeek9/blob/main/green1.gif">
 
-Vulnerability #2: __________________
+Vulnerability #2: User Enumeration
 
-Description:
+Description: entering the correct username gives the user hints that the username exists since the message becomes bolded when attempting to login with a username that already exists.
 
-<img src="green-vuln2.gif">
+<img src="https://github.com/hoonman/cybersecurityWeek9/blob/main/green2.gif">
 
 
 ## Red
