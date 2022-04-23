@@ -31,11 +31,11 @@ Description:
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS
 
-Description:
+Description: entering a XSS alert script allows for displaying alerts on admin page for feedback.
 
-<img src="green-vuln1.gif">
+<img src="https://github.com/hoonman/cybersecurityWeek9/blob/main/green1.gif">
 
 Vulnerability #2: __________________
 
